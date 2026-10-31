@@ -1,0 +1,19 @@
+{
+  "name": "net-cafe-menu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "description": "NET CAFE restaurant menu - Vercel ready Next.js App Router"
+}

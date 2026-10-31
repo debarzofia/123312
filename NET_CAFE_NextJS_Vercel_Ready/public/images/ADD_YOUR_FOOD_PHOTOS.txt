@@ -1,0 +1,29 @@
+NET CAFE — FOOD IMAGE FOLDER
+
+This folder is served at /images/ by Next.js.
+Example: public/images/chicken-biryani.jpg -> /images/chicken-biryani.jpg
+
+Keep every photo filename EXACTLY as shown below. Vercel is case-sensitive.
+Your original real restaurant food photos were not supplied, so the menu will
+show "Photo coming soon" until you add the matching pictures.
+
+Actual food photo paths used by the menu:
+  /images/12.jpg (please add)
+  /images/13.jpg (please add)
+  /images/Image 2.jpg (please add)
+  /images/arabic-coffee.jpg (please add)
+  /images/baklava.jpg (please add)
+  /images/chicken-biryani.jpg (please add)
+  /images/dolma.jpg (please add)
+  /images/doogh.jpg (please add)
+  /images/kleicha.jpg (please add)
+  /images/kunafa.jpg (please add)
+  /images/lentil-soup.jpg (please add)
+  /images/masgouf.jpg (please add)
+  /images/net-logo.jpg (already included)
+  /images/pomegranate-juice.jpg (please add)
+  /images/qozi.jpg (please add)
+  /images/shish-tawook.jpg (please add)
+  /images/tea.jpg (please add)
+
+To change a photo path, edit the matching dish in public/menu.js.
